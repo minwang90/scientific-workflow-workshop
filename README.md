@@ -2,8 +2,8 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub worksho
 I am making this change. 
-
-This synthetic repository supports two workshops:
+Another points.
+This synthetic repository supports two workshop
 
 1. **GitHub Foundations for Scientific Work**
 2. **GitHub Copilot for Data Scientists — VS Code Agent mode**
