@@ -2,7 +2,6 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub worksho
 
-
 This if the File I am modify
 
 This synthetic repository supports two workshop
